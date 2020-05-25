@@ -3,9 +3,9 @@
   "teamId": "scribo",
   "logoImg": "logo.png",
   "bannerTitle": "Developer Hub",
-  "bannerDescription": "Welcome to Scribo developer hub.",
+  "bannerDescription": "Welcome to MSRV :)",
   "theme": {
-    "primaryColor": "#111a2b",
+    "primaryColor": "#112a2b",
     "headerFontColor": "#fff"
   },
   "menus": [
