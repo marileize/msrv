@@ -5,7 +5,7 @@
   "bannerTitle": "Developer Hub",
   "bannerDescription": "Welcome to MSRV :)",
   "theme": {
-    "primaryColor": "#112a2b",
+    "primaryColor": "#111a2b",
     "headerFontColor": "#fff"
   },
   "menus": [
